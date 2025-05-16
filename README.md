@@ -40,5 +40,5 @@ pip install pycryptodome
 ### 3. 実行
 
 ```bash
-python aes_file_tool.py
+python main.py
 ```
