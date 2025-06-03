@@ -43,3 +43,7 @@ pip install pycryptodome
 ```bash
 python main.py
 ```
+
+## 環境構築が終わったら
+環境構築お疲れ様でした。
+[使い方.md](./使い方.md)で実行方法から解説をしているので、ご利用ください
