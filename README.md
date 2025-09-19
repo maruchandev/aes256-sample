@@ -37,7 +37,10 @@ source venv/bin/activate
 ```bash
 pip install pycryptodome
 ```
-
+※もし動かない場合
+```bash
+python -m pip install --upgrade pip
+```
 ### 3. 実行
 
 ```bash
