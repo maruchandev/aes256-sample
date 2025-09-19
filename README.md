@@ -41,6 +41,7 @@ pip install pycryptodome
 インストール参照元のライブラリが見つからない場合があるのでその場合はアップデートをすると治るかもしれません
 ```bash
 python -m pip install --upgrade pip
+
 ```
 ### 3. 実行
 
