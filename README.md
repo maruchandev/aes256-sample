@@ -37,7 +37,8 @@ source venv/bin/activate
 ```bash
 pip install pycryptodome
 ```
-※もし動かない場合
+#### もし動かない場合
+インストール参照元のライブラリが見つからない場合があるのでその場合はアップデートをすると治るかもしれません
 ```bash
 python -m pip install --upgrade pip
 ```
